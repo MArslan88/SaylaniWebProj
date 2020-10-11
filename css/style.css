@@ -4,3 +4,6 @@
 .bg-text{
     background: #f7f8fa ;
 }
+.bg-statistics{
+    background-color: rgba(36, 79, 242, 0.8) !important;
+}
